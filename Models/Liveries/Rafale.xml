@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+<sim>
+	<model>
+		<livery>
+			<name type="string">Rafale-like</name>
+			<texture>Liveries/Rafale.png</texture>
+		</livery>
+		<livery-logo>
+			<texture>Liveries/Rafale.png</texture>
+		</livery-logo>
+	</model>
+	    <rendering>
+    <refl_correction type="string">-0.41</refl_correction>
+    </rendering>
+
+</sim>
+
+</PropertyList>

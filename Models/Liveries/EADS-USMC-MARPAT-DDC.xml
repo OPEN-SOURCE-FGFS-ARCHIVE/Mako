@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+<sim>
+	<model>
+		<livery>
+			<name type="string">EADS - USMC MARPAT DDC</name>
+			<texture>Liveries/EADS-USMC-MARPAT-DDC.png</texture>
+		</livery>
+		<livery-logo>
+			<texture>Liveries/EADS-USMC-MARPAT-DDC.png</texture>
+		</livery-logo>
+	</model>
+	    <rendering>
+    <refl_correction type="string">-0.41</refl_correction>
+    </rendering>
+		
+</sim>
+
+</PropertyList>

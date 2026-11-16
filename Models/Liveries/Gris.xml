@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+<sim>
+	<model>
+		<livery>
+			<name type="string">Dark Grey</name>
+			<texture>Liveries/gris.png</texture>
+		</livery>
+		<livery-logo>
+			<texture>Liveries/gris.png</texture>
+		</livery-logo>
+	</model>
+	    <rendering>
+    <refl_correction type="string">-0.41</refl_correction>
+    </rendering>
+</sim>
+
+</PropertyList>

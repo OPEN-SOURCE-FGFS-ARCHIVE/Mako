@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+<sim>
+	<model>
+		<livery>
+			<name type="string">EADS - Splinter Camo</name>
+			<texture>Liveries/EADS-Splinter-Camo.png</texture>
+		</livery>
+		<livery-logo>
+			<texture>Liveries/EADS-Splinter-Camo.png</texture>
+		</livery-logo>
+	</model>
+	    <rendering>
+    <refl_correction type="string">-0.41</refl_correction>
+    </rendering>
+	
+</sim>
+
+</PropertyList>

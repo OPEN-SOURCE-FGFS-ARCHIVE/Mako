@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+<sim>
+	<model>
+		<livery>
+			<name type="string">Mirage 2000N -like</name>
+			<texture>Liveries/2000N.png</texture>
+		</livery>
+		<livery-logo>
+			<texture>Liveries/2000N.png</texture>
+		</livery-logo>
+	</model>
+    <rendering>
+    <refl_correction type="string">-0.41</refl_correction>
+    </rendering>
+</sim>
+
+</PropertyList>
